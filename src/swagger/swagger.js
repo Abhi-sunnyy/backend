@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
       {
-        url: process.env.BACKEND_URL || 'http://localhost:5000',
+        url: 'https://backend-u706.onrender.com/' || 'http://localhost:5000',
         description: 'Development server',
       },
     ],
