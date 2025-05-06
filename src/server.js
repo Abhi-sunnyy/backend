@@ -36,7 +36,8 @@ const app = express();
 
 const allowedOrigins = [
   'https://luxestay-blush.vercel.app',
-  'https://frontend-kuk3.onrender.com'
+  'https://frontend-kuk3.onrender.com',
+  'https://frontend-lac-tau-81.vercel.app'
 ];
 
 const corsOptions = {
