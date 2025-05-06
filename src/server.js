@@ -38,7 +38,8 @@ const allowedOrigins = [
   'https://luxestay-blush.vercel.app',
   'https://frontend-kuk3.onrender.com',
   'https://frontend-lac-tau-81.vercel.app',
-  'https://luxestay-one.vercel.app'
+  'https://luxestay-one.vercel.app',
+  'https://backend-u706.onrender.com'
 ];
 
 const corsOptions = {
