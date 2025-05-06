@@ -36,7 +36,6 @@ const app = express();
 
 const allowedOrigins = [
   'https://luxestay-blush.vercel.app/',
-  'https://frontend-lime-six-62.vercel.app',
   'https://frontend-kuk3.onrender.com'
 ];
 
