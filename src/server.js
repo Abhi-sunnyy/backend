@@ -35,7 +35,7 @@ const app = express();
 // };
 
 const allowedOrigins = [
-  'https://luxestay-blush.vercel.app/',
+  'https://luxestay-blush.vercel.app',
   'https://frontend-kuk3.onrender.com'
 ];
 
